@@ -441,6 +441,9 @@ font-size: 25px;
    {
     margin-top: 2rem;
    }
+   .footerpara{
+    font-size: 13px;
+   }
 }
 
 @media (max-width:450px){
