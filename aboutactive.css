@@ -20,7 +20,7 @@ main{
     width: 125px;
     height: 130px;
     border-radius: 50%;
-    border:7px solid#F44336;
+    border:7px solid#C75146;
 }
 .header
 {
@@ -41,7 +41,7 @@ main{
     height: 2.5rem;
     font-size: 1rem;
     border-radius: 20px;
-    background-color: #F44336;
+    background-color: #C75146;
     color: white;
     border: none;
     overflow: hidden;
